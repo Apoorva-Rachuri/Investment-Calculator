@@ -11,7 +11,7 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://yourusername.github.io/investment-calculator"
+    "homepage": "https://apoorvarachuri.github.io/investment-calculator"
   },
   "scripts": {
     "start": "react-scripts start",
