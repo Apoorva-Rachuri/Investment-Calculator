@@ -1,8 +1,8 @@
 {
-  "name": "Investment-Calculator",
+  "name": "InvestmentCalculator",
   "version": "0.1.0",
   "public": true,
-  "homepage": "https://apoorva-rachuri.github.io/Investment-Calculator",
+  "homepage": "https://apoorva-rachuri.github.io/InvestmentCalculator",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
