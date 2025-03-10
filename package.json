@@ -2,7 +2,8 @@
   "name": "project2",
   "version": "0.1.0",
   "public": true,
-  "homepage": "https://apoorva-rachuri.github.io/project2",
+  //"homepage": "https://apoorva-rachuri.github.io/project2",
+  "homepage": "https://apoorva-rachuri.github.io/Investment-Calculator",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
