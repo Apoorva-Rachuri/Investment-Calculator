@@ -25,7 +25,7 @@ function App(){
 
    return (
     <>
-    <h1>App loaded</h1>
+    
     <Header />
     <UserInput userInput={userInput} onChange={handleChange}/>
     {!inputIsValid && <p className="center">Please enter a duration greater than zero.</p>}
